@@ -1,92 +1,44 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                               # Retail Sales Performance Dashboard
+# Retail Sales Performance Dashboard
 
 ## Project Overview
+This Power BI dashboard analyzes retail sales performance across products, customers, regions, and time.
 
-This project is an end-to-end Power BI dashboard built to analyze retail sales performance across products, customers, regions, and time periods.
+## Features
+- Executive Summary
+- Product Analytics
+- Customer Analytics
+- Sales Trend Analysis
+- Drill Through
+- Bookmarks
+- Dynamic Titles
+- Conditional Formatting
+- Row Level Security (RLS)
 
-The report helps business users monitor KPIs, identify top-performing products, analyze customer behavior, and track sales trends.
+## Tools Used
+- Power BI Desktop
+- DAX
+- Power Query
+- Excel
+- Power BI Service
 
-## Dashboard Pages
+## Dashboard Screenshots
 
-### 1. Executive Summary
+## Executive Summary
 
-* Total Revenue
-* Total Net Revenue
-* Total Orders
-* Average Order Value
-* Revenue by Category
-* Revenue by Region
-* Monthly Revenue Trend
+![Executive Summary](Screenshots/Executive%20Summary.jpg)
 
-### 2. Product Analytics
+## Product Analytics
 
-* Revenue by Product
-* Revenue by Brand
-* Top Product
-* Product Ranking
-* Category Analysis
+![Product Analytics](Screenshots/Product%20Analytics.jpg)
 
-### 3. Customer Analytics
+## Customer Analytics
 
-* Customer Revenue Analysis
-* Top Customers
-* Revenue by State
-* Revenue by Gender
-* Customer Segmentation
+![Customer Analytics](Screenshots/Customer%20Analytics.jpg)
 
-### 4. Sales Trend Analysis
+## Sales Trend Analysis
 
-* Monthly Revenue Trend
-* Previous Year Comparison
-* Running Revenue
-* Growth Percentage Analysis
+![Sales Trend Analysis](Screenshots/Sales%20Trend%20Analysis.jpg)
 
-### 5. Product Details (Drill Through)
+## Product Details (Drill Through)
 
-* Product-level KPIs
-* Revenue by Region
-* Revenue Trend by Month
-* Customer Revenue Details
-
-## Features Implemented
-
-* Data Modeling (Star Schema)
-* DAX Measures
-* Time Intelligence
-* Drill Through
-* Dynamic Titles
-* Bookmarks
-* Show/Hide Filter Panel
-* Navigation Buttons
-* Conditional Formatting
-* Row Level Security (RLS)
-
-## DAX Functions Used
-
-* CALCULATE
-* FILTER
-* DIVIDE
-* SWITCH
-* RANKX
-* TOPN
-* SUMX
-* USERPRINCIPALNAME
-* TREATAS
-* HASONEVALUE
-* VALUES
-
-## Tools & Technologies
-
-* Power BI Desktop
-* Power BI Service
-* DAX
-* Power Query
-* Excel
-
-## Business Impact
-
-The dashboard provides actionable insights into sales performance, customer behavior, and product profitability, enabling better business decision-making.
-
-## Author
-
-Saumya Tripathi
+![Product Details](Screenshots/Products%20Details.jpg)
